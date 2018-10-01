@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Jaipur Tour Guide</string>
+
+    <!-- Categories -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Hotels">Hotels</string>
+    <string name="Food">Food</string>
+    <string name="Sites">Sites</string>
+    <string name="Clubs">Clubs</string>
+
+    <!--
+        nRajputana = name
+        dRajputana = description
+     -->
+
+    <!-- Hotels -->
+    <string name="nRajputana">ITC Rajputana</string>
+    <string name="dRajputana">
+        Set in the city center, this luxe hotel with a lavish lobby is a 7-minute walk from Jaipur
+        Junction train station and 3.9 km from the unique Hawa Mahal palace, built to shield royal
+        women from the public.
+    </string>
+
+    <string name="nRadisson">Radisson Blu</string>
+    <string name="dRadisson">
+        This upscale hotel is 1.5 km from Jawahar Circle, 2.3 km from Durgapura railway station and
+        8 km from Rambagh Palace.
+    </string>
+
+    <string name="nRambagh">Taj Rambagh Palace</string>
+    <string name="dRambagh">
+        In an ornate converted palace dating from 1835, this opulent hotel is 4 km from both
+        Gandhinagar Jaipur train station, and art and history exhibits at the Albert Hall Museum.
+    </string>
+
+    <string name="nLalit">The Lalit Jaipur</string>
+    <string name="dLalit">
+        Set 1.6 km from the airport, this high-end hotel with Haveli architecture is 12 km from the
+        City Palace complex and the 18th-century Jantar Mantar park.
+    </string>
+
+    <string name="nMarriott">Jaipur Marriott</string>
+    <string name="dMarriott">
+        Set 2.3 km from Durgapura Railway Station, this upscale hotel with a partial glass facade is
+        14 minutes walk from Jawahar Circle garden and 11 km from Hawa Mahal palace.
+    </string>
+
+    <!-- Food -->
+    <string name="nDalBaati">Dal Baati Churma</string>
+    <string name="dDalBaati">
+        It is a traditional dish with a history that is extraordinary as its taste.It is three in
+        one dish that consists of sweet churma, spicy daal, and baati. This combo of ‘Dal Baati
+        Churma’ is a wonderful way to warm yourself up on a cold day!
+    </string>
+
+    <string name="nKachori">Pyaaz Ki Kachori</string>
+    <string name="dKachori">
+        This mouthwatering dish from the streets of Jaipur is surely one of the everyday morning
+        food items from the Rajasthani cuisine. Steaming hot fiery Pyaaz Ki Kachori with Hot Masala
+        Tea is a perfect winter breakfast.
+    </string>
+
+    <string name="nGhevar">Ghevar</string>
+    <string name="dGhevar">
+        A classic Indian dessert served in different variety such as plain, malai and mava. It is a
+        disc-shaped sweet cake made with all-purpose flour and soaked in sugar syrup. No Rajasthani
+        food is complete without Ghevar.
+    </string>
+
+    <string name="nMirchiVada">Mirchi Vada</string>
+    <string name="dMirchiVada">
+        For all the spicy food lovers Mirchi Vada is your dish. It is a spicy Indian snack
+        consisting of chili and potato stuffing, served hot with Tamarind chutney.
+    </string>
+
+    <string name="nThali">Rajasthani Thali</string>
+    <string name="dThali">
+        A full-fledged meal call for a Rajasthani thali. It is an absolute delight to eat a little
+        bit of everything from the best that a cuisine can offer.
+    </string>
+
+    <!-- Sites -->
+    <string name="nHawaMahal">Hawa Mahal</string>
+    <string name="dHawaMahal">
+        The Hawa Mahal stands at the intersection of the main road in Jaipur, Badi Chaupad. It is
+        regarded as the signature building of Jaipur and was built by Maharaja Sawai Pratap Singh.
+    </string>
+
+    <string name="nCityPalace">City Palace</string>
+    <string name="dCityPalace">
+        Located in Jaipur, The City Palace is the main palace from where the Maharaja reigned from.
+        The palace includes the Chandra Mahan and Mubarak Mahal along with various other buildings
+        within the complex. It is located towards the north-eastern side of Jaipur.
+    </string>
+
+    <string name="nAmberFort">Amber Fort</string>
+    <string name="dAmberFort">
+        Amber Fort, situated 11 kms from Jaipur, is a fort built with great artistic taste. Cradled
+        on the top of a hill forming a beautiful reflection in Maotha Lake, it is popularly known as
+        Amer Fort.
+    </string>
+
+    <string name="nNahargarhFort">Nahargarh Fort</string>
+    <string name="dNahargarhFort">
+        Nahargarh Fort, situated on the outer skirts of Jaipur is an epitome of great architecture
+        and planning. Drenched with rich past, the fort allows you a picturesque view of the entire
+        city. Built in 1734, this grand architecture is a perfect way to begin the excursion of this
+        pink city.
+    </string>
+
+    <string name="nAlbertHall">Albert Hall Museum</string>
+    <string name="dAlbertHall">
+        Albert Hall Museum is one of the oldest museums of Rajasthan. It has a rich collection of
+        various kinds of items such as paintings, carpets, ivory, stone, metal sculptures, colourful
+        crystal works etc.
+    </string>
+
+    <!--Clubs-->
+    <string name="nHOP">House Of People</string>
+    <string name="dHOP">
+        One of the premium rooftops in Jaipur, House of People has segregated sittings; one can
+        enjoy the live music in lounge or can choose to stay on toes with the rock music in pub
+        area. This beautiful ambiance attracts ladies for free on every Thursdays.
+    </string>
+
+    <string name="nBlackout">Blackout</string>
+    <string name="dBlackout">
+        As the names hints a place with complete darkness where you find urself life while dancing
+        to the beats of music relieving yourself from all the hues of stress.
+    </string>
+
+    <string name="nDuplay">Duplay</string>
+    <string name="dDuplay">
+        Stylish neon-lit nightclub in a hotel with comfortable seating and a large dance floor.
+    </string>
+
+    <string name="nFBar">F Bar &amp; Lounge</string>
+    <string name="dFBar">
+        An ideal destination for Jaipur partygoers which mishmash of all sides of stylish lounge
+        including food, drinks, music &amp; experience.  Unwind work and spend nice evening here out
+        with your f-avourite people.
+    </string>
+
+    <string name="nWTF">WTF Cafe</string>
+    <string name="dWTF">
+        The unmatchable aura of WTF makes it a must visit place, where reunions could be celebrated
+        with chilled beer mugs and delicious choice food.
+    </string>
+
+</resources>
