@@ -31,6 +31,15 @@
             tools:text="Section Name" />
 
         <TextView
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:textSize="12sp"
+            tools:text="Author Name" />
+
+        <TextView
             android:id="@+id/date"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -2,11 +2,12 @@ package com.example.android.newsfeedapp;
 
 public class News {
 
-    private String title, section, date, link;
+    private String title, section, author, date, link;
 
-    public News(String title, String section, String date, String link) {
+    public News(String title, String section, String author, String date, String link) {
         this.title = title;
         this.section = section;
+        this.author = author;
         this.date = date;
         this.link = link;
     }
@@ -25,5 +26,9 @@ public class News {
 
     public String getLink() {
         return link;
+    }
+
+    public String getAuthor() {
+        return author;
     }
 }

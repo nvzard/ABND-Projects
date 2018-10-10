@@ -58,7 +58,15 @@ public final class QueryUtils {
                 String section = result.getString("sectionName");
                 String date = result.getString("webPublicationDate");
                 String link = result.getString("webUrl");
-                news.add(new News(title, section, date, link));
+
+                String author;
+                JSONArray tags = result.getJSONArray("tags");
+                if (tags.length() >= 1) {
+                    JSONObject contributorTag = tags.getJSONObject(0);
+                    author = contributorTag.getString("webTitle");
+                } else
+                    author = "";
+                news.add(new News(title, section, author, date, link));
             }
         } catch (JSONException e) {
             Log.e("QueryUtils", "Problem parsing the earthquake JSON results", e);
