@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">InventoryApp</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Items</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="hint_item_name">Name</string>
+    <string name="category_overview">Qverview</string>
+    <string name="category_quantity">Quantity</string>
+    <string name="hint_item_quantity">Qty</string>
+    <string name="unit_item">Units</string>
+    <string name="category_price">Price</string>
+    <string name="hint_item_price">Price</string>
+    <string name="unit_price">$</string>
+    <string name="category_supplier">Supplier Overview</string>
+    <string name="hint_supplier_name">Supplier Name</string>
+    <string name="hint_supplier_phone">Phone No.</string>
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="editor_activity_title_new_item">Add an item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unknown_name">Unknown product</string>
+    <string name="dummy_name">Dummy Product</string>
+    <string name="dummy_price">69</string>
+    <string name="dummy_qty">10</string>
+    <string name="dummy_supplier">Regular Supplier</string>
+    <string name="dummy_supplier_num">9876543210</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="empty_field_warning">Please fill all the required details.</string>
+</resources>
